@@ -1,2 +1,4 @@
 # wunder25.de
-xmaswonder 2025 wdr2
+
+Dies ist das Repository für die Weihnachtsaktion 2025 von WDR2.
+Ein wichtiges Lernziel (Takeaway) wird die Implementierung des Zahlvorganges mit Paypal sein.
